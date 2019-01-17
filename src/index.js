@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import 'tachyons';
 import 'react-tilt'
+import 'clarifai'
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
